@@ -14,7 +14,7 @@ class Derived extends Base
 		System.out.println("**");
 	}
 }
-class Dk15
+class Dk1
 {
 	public static void main(String args[])
 	{
